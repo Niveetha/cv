@@ -48,7 +48,6 @@ Management Experience
 
 Standalone Contract Tracing Web Application
   - Used JSF, PrimeFaces, MSSQL, Tomcat and Bash Script (written in Java)
-<br><br>
 
 Face Recognition Web Application
   - Designed and developed face recognition web application (using MERN tech stack)
