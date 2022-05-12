@@ -54,6 +54,15 @@ Face Recognition Web Application
   - Designed and developed the UI (written in in JavaScript, HTML, CSS, Material-UI, Materialize and ReactJS)
 <br><br>
 
+## Skills
+
+**Languages**: Java, JavaScript, TypeScript, SQL, C++, C, Solidity, HTML, CSS, Bash Script, YAML
+<br>
+**Technologies**: Node.js, React, Express.js, web3.js, Web3j, Git
+<br>
+**Platforms**: Amazon Web Services, HashiCorp, Firebase, MongoDB, Postman, GitHub, Bitbucket, Jira, Confluence
+<br><br>
+
 ## Education
 
 **National University of Singapore**
