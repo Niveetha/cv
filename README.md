@@ -67,6 +67,7 @@ _Computer Science_
 Diploma in Engineering Science | Class of 2014
 <br>
 _Certificate in Advanced Engineering Mathematics_
+<br>
 _Diploma Plus in French_
 <br><br>
 
