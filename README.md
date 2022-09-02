@@ -1,13 +1,13 @@
 # Niveetha Nair
 
-_Integration Engineer based in Singapore_ 
+_Software Engineer based in Singapore_ 
 <br>
 
 [Email](mailto:niveetha.nair@gmail.com) • [LinkedIn](https://www.linkedin.com/in/niveethanair/) • [GitHub](https://github.com/Niveetha)
 
 ## Engineering Experience
 
-**Senior Integration Engineer** @ [STACS](https://stacs.io/) | _(August 2020 - Present)_ 
+**Software Engineer** @ [STACS](https://stacs.io/) | _(August 2020 - Present)_ 
 <br>
 
 Real-time multi-asset synchronised DLT trade processing solution - Project Mercury
@@ -38,7 +38,7 @@ Various Integration Projects
   - Designed and developed APIs that bridged client applications to our solutions
 
 Management Experience
-  - Lead a team of 2 software engineers to build ESGpedia
+  - Lead a team of 2 software engineers and 1 software engineer intern to build ESGpedia
   - Lead a team of 3 software engineer interns and 2 software engineers to build an Web3j-based SDK
   - Onboarded lead and principal engineers to our solutions
 <br><br>
@@ -56,11 +56,11 @@ Face Recognition Web Application
 
 ## Skills
 
-**Languages**: Java, JavaScript, TypeScript, SQL, C++, C, Solidity, HTML, CSS, Bash Script, YAML
+**Languages**: Java, JavaScript, TypeScript, SQL, Solidity, HTML, CSS, Bash Script, YAML
 <br>
 **Technologies**: Node.js, React, Express.js, web3.js, Web3j, Git
 <br>
-**Platforms**: Amazon Web Services, HashiCorp, Firebase, MongoDB, Postman, GitHub, Bitbucket, Jira, Confluence
+**Platforms**: Amazon Web Services, MongoDB, Postman, GitHub, Bitbucket, Jira, Confluence
 <br><br>
 
 ## Education
