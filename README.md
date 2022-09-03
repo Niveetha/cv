@@ -3,7 +3,7 @@
 _Software Engineer based in Singapore_ 
 <br>
 
-[Email](mailto:niveetha.nair@gmail.com) • [LinkedIn](https://www.linkedin.com/in/niveethanair/) • [GitHub](https://github.com/Niveetha)
+[Email](mailto:niveetha.nair@gmail.com) • [LinkedIn](https://www.linkedin.com/in/niveetha/) • [GitHub](https://github.com/Niveetha)
 
 ## Engineering Experience
 
